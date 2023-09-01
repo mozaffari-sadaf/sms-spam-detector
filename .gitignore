@@ -1,0 +1,18 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore virtual environment folders (if you're using virtual environments)
+venv/
+.venv/
+
+# Ignore logs and other generated files
+logs/
+*.log
+
+# Ignore data files (e.g., CSV, Excel) that you don't want to version control
+data/
+
+# Ignore IDE-specific files and directories
+.vscode/
+.idea/
+.pyc
